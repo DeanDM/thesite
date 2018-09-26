@@ -1,4 +1,7 @@
 baseURL = "http://example.org/"
 languageCode = "en-us"
 title = "Playground"
-theme = "ananke"
+theme = "hyde"
+
+[params]
+  themeColor = "theme-base-09"
